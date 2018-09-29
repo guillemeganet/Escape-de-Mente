@@ -1,0 +1,30 @@
+c:\users\ing.oscar\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\ing.oscar\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\ing.oscar\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\ing.oscar\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\ing.oscar\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\ing.oscar\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\ing.oscar\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\ing.oscar\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\ing.oscar\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\Escape de Mente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\Escape de Mente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\Escape de Mente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\Escape de Mente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\Escape de Mente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\Escape de Mente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\Escape de Mente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\Escape de Mente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\Escape de Mente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\Escape de Mente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Desarrollo de Software\1 Año\Profesor Sergio Algorry\C#\Juegos\Escape de Mente\WindowsFormsApplication1\obj\Debug\Precarga.Precarga.resources
